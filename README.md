@@ -41,12 +41,3 @@ Key Layers:
 MaxPooling layers
 Dropout (to prevent overfitting)
 Output layer with softmax activation for multi-class classification.
-Installation
-To run this project, ensure you have the following dependencies installed:
-
-bash
-Copy code
-pip install tensorflow
-pip install numpy
-pip install matplotlib
-pip install kaggle
